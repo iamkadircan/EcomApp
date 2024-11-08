@@ -82,18 +82,19 @@ Check out the app in action:
 
 
 
-https://github.com/user-attachments/assets/814b9d43-f628-452b-ac05-25e1fc8a532d
+[Demo Video](assets/video.mp4)
 
 
 
 
 ## Screenshots 📸
 
-![Screenshot 1](https://github.com/user-attachments/assets/86a67c5c-8f63-4627-b98e-35cda34168e5)
-![Screenshot 2](https://github.com/user-attachments/assets/6ff0b17c-b038-4336-a6bf-6a374a91fb85)
-![Screenshot 3](https://github.com/user-attachments/assets/19662506-3969-4fae-9406-9958b4522a79)
-![Screenshot 4](https://github.com/user-attachments/assets/ef0a70ad-06cf-4a12-b8dd-696659a47d1d)
-![Screenshot 5](https://github.com/user-attachments/assets/cdb6a73a-004d-4bf3-bc62-e19a9a596b5c)
-![Screenshot 6](https://github.com/user-attachments/assets/2d5d1ba1-51f6-4aa5-ba33-3a8eee475b7b)
-![Screenshot 7](https://github.com/user-attachments/assets/bccc1abd-f3c8-467f-a809-a4def557767d)
-![Screenshot 8](https://github.com/user-attachments/assets/453117e0-18dd-4ad4-8c63-c16008b56ebc)
+![Screenshot 1](assets/ss_cart.jpg)
+![Screenshot 2](assets/ss_detail.jpg)
+![Screenshot 3](assets/ss_favorite.jpg)
+![Screenshot 4](assets/ss_login.jpg)
+![Screenshot 5](assets/ss_orders.jpg)
+![Screenshot 6](assets/ss_products.jpg)
+![Screenshot 7](assets/ss_profile.jpg)
+![Screenshot 8](assets/ss_register.jpg)
+![Screenshot 8](assets/ss_search.jpg)
